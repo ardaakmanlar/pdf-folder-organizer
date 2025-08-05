@@ -12,7 +12,7 @@ It was created to automatically organize PDF files received from external publis
 These files were previously sorted manually, which was time-consuming and error-prone.  
 With this tool, incoming documents can now be quickly grouped into folders like `BS-1`, `BS-2`, etc., based on the numbers in their filenames.
 
-
+📂 This tool was **specifically built for internal use at FERNUS** to help organize and manage incoming PDF files from external sources more efficiently within the book production workflow.
 ---
 
 ## 📦 What It Does
