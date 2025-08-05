@@ -40,7 +40,6 @@ This script scans all `.pdf` files in a folder, extracts valid numbers (between 
 
 ## 🛠 Tech Stack
 
-- **Python 3.10+**
 - Built-in modules only:
   - `os` – for file system navigation
   - `shutil` – for moving files
