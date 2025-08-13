@@ -34,8 +34,8 @@ The script scans all `.pdf` files in a folder, extracts valid numbers (between 1
 
 This script uses only Python's standard library:
 
-- `os` – file system operations  
-- `shutil` – file movement  
-- `re` – regular expressions for number matching
+- [Python](https://www.python.org/) – core programming language  
+- [os](https://docs.python.org/3/library/os.html) – file system operations  
+- [shutil](https://docs.python.org/3/library/shutil.html) – file movement  
+- [re](https://docs.python.org/3/library/re.html) – regular expressions for number matching 
 
-No external dependencies are required.
