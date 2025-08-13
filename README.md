@@ -24,7 +24,7 @@ The script scans all `.pdf` files in a folder, extracts valid numbers (between 1
 
 1. Place the script in the folder containing your `.pdf` files.
 2. Run the script in a terminal.
-3. Enter the base folder name prefix (e.g., `BS`) when prompted.
+3. Enter the base folder name prefix  when prompted.
 4. The script will extract numbers from the first file and ask you to select which number to use.
 5. All PDF files will be moved into folders based on the selected number index.
 
